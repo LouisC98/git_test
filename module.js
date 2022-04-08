@@ -1,4 +1,5 @@
 const abj = {
     name: "Louis",
-    age: 23
+    age: 23,
+    isAdmin: true
 }

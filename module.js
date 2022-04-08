@@ -1,4 +1,5 @@
 const abj = {
     name: "Charlotte",
-    age: 23
+    age: 23,
+    orders: ["pain", "lait"]
 }
